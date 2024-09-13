@@ -1,0 +1,16 @@
+C:\Users\ascha\source\repos\GarageSoftware\GarageSoftware\obj\Debug\net6.0-windows\GarageSoftware.csproj.GenerateResource.cache
+C:\Users\ascha\source\repos\GarageSoftware\GarageSoftware\obj\Debug\net6.0-windows\GarageSoftware.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ascha\source\repos\GarageSoftware\GarageSoftware\obj\Debug\net6.0-windows\GarageSoftware.AssemblyInfoInputs.cache
+C:\Users\ascha\source\repos\GarageSoftware\GarageSoftware\obj\Debug\net6.0-windows\GarageSoftware.AssemblyInfo.cs
+C:\Users\ascha\source\repos\GarageSoftware\GarageSoftware\obj\Debug\net6.0-windows\GarageSoftware.csproj.CoreCompileInputs.cache
+C:\Users\ascha\source\repos\GarageSoftware\GarageSoftware\bin\Debug\net6.0-windows\GarageSoftware.exe
+C:\Users\ascha\source\repos\GarageSoftware\GarageSoftware\bin\Debug\net6.0-windows\GarageSoftware.deps.json
+C:\Users\ascha\source\repos\GarageSoftware\GarageSoftware\bin\Debug\net6.0-windows\GarageSoftware.runtimeconfig.json
+C:\Users\ascha\source\repos\GarageSoftware\GarageSoftware\bin\Debug\net6.0-windows\GarageSoftware.dll
+C:\Users\ascha\source\repos\GarageSoftware\GarageSoftware\bin\Debug\net6.0-windows\GarageSoftware.pdb
+C:\Users\ascha\source\repos\GarageSoftware\GarageSoftware\obj\Debug\net6.0-windows\GarageSoftware.dll
+C:\Users\ascha\source\repos\GarageSoftware\GarageSoftware\obj\Debug\net6.0-windows\refint\GarageSoftware.dll
+C:\Users\ascha\source\repos\GarageSoftware\GarageSoftware\obj\Debug\net6.0-windows\GarageSoftware.pdb
+C:\Users\ascha\source\repos\GarageSoftware\GarageSoftware\obj\Debug\net6.0-windows\GarageSoftware.genruntimeconfig.cache
+C:\Users\ascha\source\repos\GarageSoftware\GarageSoftware\obj\Debug\net6.0-windows\ref\GarageSoftware.dll
+C:\Users\ascha\source\repos\GarageSoftware\GarageSoftware\obj\Debug\net6.0-windows\GarageSoftware.GarageForm.resources
