@@ -14,3 +14,8 @@ C:\Users\ascha\source\repos\GarageSoftware\GarageSoftware\obj\Debug\net6.0-windo
 C:\Users\ascha\source\repos\GarageSoftware\GarageSoftware\obj\Debug\net6.0-windows\GarageSoftware.genruntimeconfig.cache
 C:\Users\ascha\source\repos\GarageSoftware\GarageSoftware\obj\Debug\net6.0-windows\ref\GarageSoftware.dll
 C:\Users\ascha\source\repos\GarageSoftware\GarageSoftware\obj\Debug\net6.0-windows\GarageSoftware.GarageForm.resources
+C:\Users\ascha\source\repos\GarageSoftware\GarageSoftware\obj\Debug\net6.0-windows\GarageSoftware.sourcelink.json
+C:\Users\ascha\source\repos\GarageSoftware\GarageSoftware\bin\Debug\net6.0-windows\DomainModel.dll
+C:\Users\ascha\source\repos\GarageSoftware\GarageSoftware\bin\Debug\net6.0-windows\DomainModel.pdb
+C:\Users\ascha\source\repos\GarageSoftware\GarageSoftware\obj\Debug\net6.0-windows\GarageSoftware.csproj.AssemblyReference.cache
+C:\Users\ascha\source\repos\GarageSoftware\GarageSoftware\obj\Debug\net6.0-windows\GarageSo.F8732276.Up2Date

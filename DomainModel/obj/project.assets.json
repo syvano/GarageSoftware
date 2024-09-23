@@ -1,30 +1,11 @@
 {
   "version": 3,
   "targets": {
-    "net6.0-windows7.0": {
-      "DomainModel/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v6.0",
-        "compile": {
-          "bin/placeholder/DomainModel.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/DomainModel.dll": {}
-        }
-      }
-    }
+    "net6.0": {}
   },
-  "libraries": {
-    "DomainModel/1.0.0": {
-      "type": "project",
-      "path": "../DomainModel/DomainModel.csproj",
-      "msbuildProject": "../DomainModel/DomainModel.csproj"
-    }
-  },
+  "libraries": {},
   "projectFileDependencyGroups": {
-    "net6.0-windows7.0": [
-      "DomainModel >= 1.0.0"
-    ]
+    "net6.0": []
   },
   "packageFolders": {
     "C:\\Users\\ascha\\.nuget\\packages\\": {}
@@ -32,31 +13,27 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ascha\\source\\repos\\GarageSoftware\\GarageSoftware\\GarageSoftware.csproj",
-      "projectName": "GarageSoftware",
-      "projectPath": "C:\\Users\\ascha\\source\\repos\\GarageSoftware\\GarageSoftware\\GarageSoftware.csproj",
+      "projectUniqueName": "C:\\Users\\ascha\\source\\repos\\GarageSoftware\\DomainModel\\DomainModel.csproj",
+      "projectName": "DomainModel",
+      "projectPath": "C:\\Users\\ascha\\source\\repos\\GarageSoftware\\DomainModel\\DomainModel.csproj",
       "packagesPath": "C:\\Users\\ascha\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ascha\\source\\repos\\GarageSoftware\\GarageSoftware\\obj\\",
+      "outputPath": "C:\\Users\\ascha\\source\\repos\\GarageSoftware\\DomainModel\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ascha\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
-        "net6.0-windows"
+        "net6.0"
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
-        "net6.0-windows7.0": {
-          "targetAlias": "net6.0-windows",
-          "projectReferences": {
-            "C:\\Users\\ascha\\source\\repos\\GarageSoftware\\DomainModel\\DomainModel.csproj": {
-              "projectPath": "C:\\Users\\ascha\\source\\repos\\GarageSoftware\\DomainModel\\DomainModel.csproj"
-            }
-          }
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {}
         }
       },
       "warningProperties": {
@@ -71,8 +48,8 @@
       }
     },
     "frameworks": {
-      "net6.0-windows7.0": {
-        "targetAlias": "net6.0-windows",
+      "net6.0": {
+        "targetAlias": "net6.0",
         "imports": [
           "net461",
           "net462",
@@ -87,9 +64,6 @@
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
-          },
-          "Microsoft.WindowsDesktop.App.WindowsForms": {
-            "privateAssets": "none"
           }
         },
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303\\RuntimeIdentifierGraph.json"
