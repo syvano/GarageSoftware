@@ -12,7 +12,7 @@ namespace GarageSoftware
         private void AddVehicleBtn_Click(object sender, EventArgs e)
         {
 
-            Vehicle myCar = new Vehicle();
+            Car myCar = new Car();
 
             myCar.Registration = RegistrationTxtBox.Text;
             myCar.Make = MakeTxtBox.Text;
