@@ -52,7 +52,7 @@
             // 
             // RegistrationTxtBox
             // 
-            RegistrationTxtBox.Location = new Point(2225, 216);
+            RegistrationTxtBox.Location = new Point(1893, 216);
             RegistrationTxtBox.Margin = new Padding(5);
             RegistrationTxtBox.Name = "RegistrationTxtBox";
             RegistrationTxtBox.Size = new Size(522, 50);
@@ -61,7 +61,7 @@
             // label1
             // 
             label1.AutoSize = true;
-            label1.Location = new Point(2025, 216);
+            label1.Location = new Point(1693, 216);
             label1.Margin = new Padding(5, 0, 5, 0);
             label1.Name = "label1";
             label1.Size = new Size(190, 45);
@@ -70,7 +70,7 @@
             // 
             // MakeTxtBox
             // 
-            MakeTxtBox.Location = new Point(2225, 340);
+            MakeTxtBox.Location = new Point(1893, 340);
             MakeTxtBox.Margin = new Padding(5);
             MakeTxtBox.Name = "MakeTxtBox";
             MakeTxtBox.Size = new Size(522, 50);
@@ -78,7 +78,7 @@
             // 
             // ModelTxtBox
             // 
-            ModelTxtBox.Location = new Point(2225, 465);
+            ModelTxtBox.Location = new Point(1893, 465);
             ModelTxtBox.Margin = new Padding(5);
             ModelTxtBox.Name = "ModelTxtBox";
             ModelTxtBox.Size = new Size(522, 50);
@@ -86,7 +86,7 @@
             // 
             // NsfTyrePressure
             // 
-            NsfTyrePressure.Location = new Point(2326, 583);
+            NsfTyrePressure.Location = new Point(1994, 583);
             NsfTyrePressure.Margin = new Padding(5);
             NsfTyrePressure.Name = "NsfTyrePressure";
             NsfTyrePressure.Size = new Size(113, 50);
@@ -94,7 +94,7 @@
             // 
             // OsfTyrePressure
             // 
-            OsfTyrePressure.Location = new Point(2634, 583);
+            OsfTyrePressure.Location = new Point(2302, 583);
             OsfTyrePressure.Margin = new Padding(5);
             OsfTyrePressure.Name = "OsfTyrePressure";
             OsfTyrePressure.Size = new Size(113, 50);
@@ -102,7 +102,7 @@
             // 
             // NsrTyrePressure
             // 
-            NsrTyrePressure.Location = new Point(2326, 726);
+            NsrTyrePressure.Location = new Point(1994, 726);
             NsrTyrePressure.Margin = new Padding(5);
             NsrTyrePressure.Name = "NsrTyrePressure";
             NsrTyrePressure.Size = new Size(113, 50);
@@ -110,7 +110,7 @@
             // 
             // OsrTyrePressure
             // 
-            OsrTyrePressure.Location = new Point(2634, 726);
+            OsrTyrePressure.Location = new Point(2302, 726);
             OsrTyrePressure.Margin = new Padding(5);
             OsrTyrePressure.Name = "OsrTyrePressure";
             OsrTyrePressure.Size = new Size(113, 50);
@@ -119,7 +119,7 @@
             // label2
             // 
             label2.AutoSize = true;
-            label2.Location = new Point(2025, 345);
+            label2.Location = new Point(1693, 345);
             label2.Margin = new Padding(5, 0, 5, 0);
             label2.Name = "label2";
             label2.Size = new Size(98, 45);
@@ -129,7 +129,7 @@
             // label3
             // 
             label3.AutoSize = true;
-            label3.Location = new Point(2025, 465);
+            label3.Location = new Point(1693, 465);
             label3.Margin = new Padding(5, 0, 5, 0);
             label3.Name = "label3";
             label3.Size = new Size(112, 45);
@@ -139,7 +139,7 @@
             // label4
             // 
             label4.AutoSize = true;
-            label4.Location = new Point(2211, 583);
+            label4.Location = new Point(1879, 583);
             label4.Margin = new Padding(5, 0, 5, 0);
             label4.Name = "label4";
             label4.Size = new Size(77, 45);
@@ -149,7 +149,7 @@
             // label5
             // 
             label5.AutoSize = true;
-            label5.Location = new Point(2519, 583);
+            label5.Location = new Point(2187, 583);
             label5.Margin = new Padding(5, 0, 5, 0);
             label5.Name = "label5";
             label5.Size = new Size(77, 45);
@@ -159,7 +159,7 @@
             // label6
             // 
             label6.AutoSize = true;
-            label6.Location = new Point(2211, 726);
+            label6.Location = new Point(1879, 726);
             label6.Margin = new Padding(5, 0, 5, 0);
             label6.Name = "label6";
             label6.Size = new Size(80, 45);
@@ -169,7 +169,7 @@
             // label7
             // 
             label7.AutoSize = true;
-            label7.Location = new Point(2519, 731);
+            label7.Location = new Point(2187, 731);
             label7.Margin = new Padding(5, 0, 5, 0);
             label7.Name = "label7";
             label7.Size = new Size(80, 45);
@@ -178,7 +178,7 @@
             // 
             // AddVehicleBtn
             // 
-            AddVehicleBtn.Location = new Point(2225, 889);
+            AddVehicleBtn.Location = new Point(1893, 889);
             AddVehicleBtn.Name = "AddVehicleBtn";
             AddVehicleBtn.Size = new Size(522, 63);
             AddVehicleBtn.TabIndex = 14;
@@ -188,7 +188,7 @@
             // 
             // EditVehicleBtn
             // 
-            EditVehicleBtn.Location = new Point(2225, 1003);
+            EditVehicleBtn.Location = new Point(1893, 1003);
             EditVehicleBtn.Name = "EditVehicleBtn";
             EditVehicleBtn.Size = new Size(522, 63);
             EditVehicleBtn.TabIndex = 15;
@@ -204,7 +204,7 @@
             VehicleDataGrid.Name = "VehicleDataGrid";
             VehicleDataGrid.RowHeadersWidth = 62;
             VehicleDataGrid.RowTemplate.Height = 33;
-            VehicleDataGrid.Size = new Size(1863, 961);
+            VehicleDataGrid.Size = new Size(1544, 961);
             VehicleDataGrid.TabIndex = 16;
             // 
             // SearchTxt
@@ -212,12 +212,12 @@
             SearchTxt.Location = new Point(105, 103);
             SearchTxt.Name = "SearchTxt";
             SearchTxt.PlaceholderText = "Start typing here...";
-            SearchTxt.Size = new Size(1544, 50);
+            SearchTxt.Size = new Size(1190, 50);
             SearchTxt.TabIndex = 17;
             // 
             // SearchBtn
             // 
-            SearchBtn.Location = new Point(1685, 103);
+            SearchBtn.Location = new Point(1366, 103);
             SearchBtn.Name = "SearchBtn";
             SearchBtn.Size = new Size(283, 50);
             SearchBtn.TabIndex = 18;
@@ -228,7 +228,7 @@
             // 
             AutoScaleDimensions = new SizeF(18F, 45F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(2909, 1351);
+            ClientSize = new Size(2740, 1368);
             Controls.Add(SearchBtn);
             Controls.Add(SearchTxt);
             Controls.Add(VehicleDataGrid);

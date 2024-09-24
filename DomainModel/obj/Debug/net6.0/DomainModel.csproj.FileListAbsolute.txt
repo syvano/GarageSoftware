@@ -10,3 +10,15 @@ C:\Users\ascha\source\repos\GarageSoftware\DomainModel\obj\Debug\net6.0\DomainMo
 C:\Users\ascha\source\repos\GarageSoftware\DomainModel\obj\Debug\net6.0\refint\DomainModel.dll
 C:\Users\ascha\source\repos\GarageSoftware\DomainModel\obj\Debug\net6.0\DomainModel.pdb
 C:\Users\ascha\source\repos\GarageSoftware\DomainModel\obj\Debug\net6.0\ref\DomainModel.dll
+C:\Users\ascha\Desktop\GarageSoftware\DomainModel\bin\Debug\net6.0\DomainModel.deps.json
+C:\Users\ascha\Desktop\GarageSoftware\DomainModel\bin\Debug\net6.0\DomainModel.dll
+C:\Users\ascha\Desktop\GarageSoftware\DomainModel\bin\Debug\net6.0\DomainModel.pdb
+C:\Users\ascha\Desktop\GarageSoftware\DomainModel\obj\Debug\net6.0\DomainModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ascha\Desktop\GarageSoftware\DomainModel\obj\Debug\net6.0\DomainModel.AssemblyInfoInputs.cache
+C:\Users\ascha\Desktop\GarageSoftware\DomainModel\obj\Debug\net6.0\DomainModel.AssemblyInfo.cs
+C:\Users\ascha\Desktop\GarageSoftware\DomainModel\obj\Debug\net6.0\DomainModel.csproj.CoreCompileInputs.cache
+C:\Users\ascha\Desktop\GarageSoftware\DomainModel\obj\Debug\net6.0\DomainModel.sourcelink.json
+C:\Users\ascha\Desktop\GarageSoftware\DomainModel\obj\Debug\net6.0\DomainModel.dll
+C:\Users\ascha\Desktop\GarageSoftware\DomainModel\obj\Debug\net6.0\refint\DomainModel.dll
+C:\Users\ascha\Desktop\GarageSoftware\DomainModel\obj\Debug\net6.0\DomainModel.pdb
+C:\Users\ascha\Desktop\GarageSoftware\DomainModel\obj\Debug\net6.0\ref\DomainModel.dll

@@ -32,11 +32,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ascha\\source\\repos\\GarageSoftware\\GarageSoftware\\GarageSoftware.csproj",
+      "projectUniqueName": "C:\\Users\\ascha\\Desktop\\GarageSoftware\\GarageSoftware\\GarageSoftware.csproj",
       "projectName": "GarageSoftware",
-      "projectPath": "C:\\Users\\ascha\\source\\repos\\GarageSoftware\\GarageSoftware\\GarageSoftware.csproj",
+      "projectPath": "C:\\Users\\ascha\\Desktop\\GarageSoftware\\GarageSoftware\\GarageSoftware.csproj",
       "packagesPath": "C:\\Users\\ascha\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ascha\\source\\repos\\GarageSoftware\\GarageSoftware\\obj\\",
+      "outputPath": "C:\\Users\\ascha\\Desktop\\GarageSoftware\\GarageSoftware\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ascha\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -53,8 +53,8 @@
         "net6.0-windows7.0": {
           "targetAlias": "net6.0-windows",
           "projectReferences": {
-            "C:\\Users\\ascha\\source\\repos\\GarageSoftware\\DomainModel\\DomainModel.csproj": {
-              "projectPath": "C:\\Users\\ascha\\source\\repos\\GarageSoftware\\DomainModel\\DomainModel.csproj"
+            "C:\\Users\\ascha\\Desktop\\GarageSoftware\\DomainModel\\DomainModel.csproj": {
+              "projectPath": "C:\\Users\\ascha\\Desktop\\GarageSoftware\\DomainModel\\DomainModel.csproj"
             }
           }
         }
@@ -92,7 +92,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400\\RuntimeIdentifierGraph.json"
       }
     }
   }

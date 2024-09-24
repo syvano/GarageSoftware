@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ascha\\Desktop\\GarageSoftware\\DomainModel\\DomainModel.csproj",
-      "projectName": "DomainModel",
-      "projectPath": "C:\\Users\\ascha\\Desktop\\GarageSoftware\\DomainModel\\DomainModel.csproj",
+      "projectUniqueName": "C:\\Users\\ascha\\Desktop\\GarageSoftware\\DataAccessLayer\\DataAccessLayer.csproj",
+      "projectName": "DataAccessLayer",
+      "projectPath": "C:\\Users\\ascha\\Desktop\\GarageSoftware\\DataAccessLayer\\DataAccessLayer.csproj",
       "packagesPath": "C:\\Users\\ascha\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ascha\\Desktop\\GarageSoftware\\DomainModel\\obj\\",
+      "outputPath": "C:\\Users\\ascha\\Desktop\\GarageSoftware\\DataAccessLayer\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ascha\\AppData\\Roaming\\NuGet\\NuGet.Config",
