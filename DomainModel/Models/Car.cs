@@ -14,7 +14,8 @@ namespace DomainModel.Models
         public string Model { get; set; }
         public int Front_Brake_Remaining { get; set; }
         public int Rear_Brake_Remaining { get; set; }
-        public decimal Anti_Freeze_Strength { get; set; }
+        public int Anti_Freeze_Strength { get; set; }
+        public int Odometer { get; set; }
     }
 
 }
