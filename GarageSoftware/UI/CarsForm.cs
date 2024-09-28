@@ -23,11 +23,23 @@ namespace GarageSoftware
             car.Anti_Freeze_Strength = (int)AntiFreezeStengthNum.Value;
             car.Odometer = (int)OdometerNum.Value;
 
-            CarsDataAccess carsDataAccess = new CarsDataAccess();
-            carsDataAccess.AddCar(car);
+            CarsDataAccess db = new CarsDataAccess();
+            db.AddCar(car);
+
+            ClearAllFields();
 
         }
 
+        private void ClearAllFields()
+        {
+            RegistrationTxtBox.Text = default;
+            MakeTxtBox.Text = default;
+            ModelTxtBox.Text = default;
+            FrontBrakeNum.Value = default;
+            RearBrakeNum.Value = default;
+            AntiFreezeStengthNum.Value = default;
+            OdometerNum.Value = default;
+        }
     }
 
 }
