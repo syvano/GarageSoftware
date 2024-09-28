@@ -22,3 +22,4 @@ C:\Users\ascha\Desktop\GarageSoftware\DomainModel\obj\Debug\net6.0\DomainModel.d
 C:\Users\ascha\Desktop\GarageSoftware\DomainModel\obj\Debug\net6.0\refint\DomainModel.dll
 C:\Users\ascha\Desktop\GarageSoftware\DomainModel\obj\Debug\net6.0\DomainModel.pdb
 C:\Users\ascha\Desktop\GarageSoftware\DomainModel\obj\Debug\net6.0\ref\DomainModel.dll
+C:\Users\ascha\source\repos\GarageSoftware\DomainModel\obj\Debug\net6.0\DomainModel.csproj.AssemblyReference.cache

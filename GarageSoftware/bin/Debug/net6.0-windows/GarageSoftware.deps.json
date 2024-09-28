@@ -125,18 +125,12 @@
           "System.Data.SqlClient": "4.8.6"
         },
         "runtime": {
-          "DataAccessLayer.dll": {
-            "assemblyVersion": "1.0.0",
-            "fileVersion": "1.0.0.0"
-          }
+          "DataAccessLayer.dll": {}
         }
       },
       "DomainModel/1.0.0": {
         "runtime": {
-          "DomainModel.dll": {
-            "assemblyVersion": "1.0.0",
-            "fileVersion": "1.0.0.0"
-          }
+          "DomainModel.dll": {}
         }
       }
     }

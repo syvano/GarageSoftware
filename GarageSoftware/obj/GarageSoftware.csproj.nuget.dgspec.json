@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Bradbury\\Source\\Repos\\GarageSoftware\\GarageSoftware\\GarageSoftware.csproj": {}
+    "C:\\Users\\ascha\\source\\repos\\GarageSoftware\\GarageSoftware\\GarageSoftware.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Bradbury\\Source\\Repos\\GarageSoftware\\DataAccessLayer\\DataAccessLayer.csproj": {
+    "C:\\Users\\ascha\\source\\repos\\GarageSoftware\\DataAccessLayer\\DataAccessLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Bradbury\\Source\\Repos\\GarageSoftware\\DataAccessLayer\\DataAccessLayer.csproj",
+        "projectUniqueName": "C:\\Users\\ascha\\source\\repos\\GarageSoftware\\DataAccessLayer\\DataAccessLayer.csproj",
         "projectName": "DataAccessLayer",
-        "projectPath": "C:\\Users\\Bradbury\\Source\\Repos\\GarageSoftware\\DataAccessLayer\\DataAccessLayer.csproj",
-        "packagesPath": "C:\\Users\\Bradbury\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Bradbury\\Source\\Repos\\GarageSoftware\\DataAccessLayer\\obj\\",
+        "projectPath": "C:\\Users\\ascha\\source\\repos\\GarageSoftware\\DataAccessLayer\\DataAccessLayer.csproj",
+        "packagesPath": "C:\\Users\\ascha\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ascha\\source\\repos\\GarageSoftware\\DataAccessLayer\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Bradbury\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\ascha\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -32,8 +28,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\Bradbury\\Source\\Repos\\GarageSoftware\\DomainModel\\DomainModel.csproj": {
-                "projectPath": "C:\\Users\\Bradbury\\Source\\Repos\\GarageSoftware\\DomainModel\\DomainModel.csproj"
+              "C:\\Users\\ascha\\source\\repos\\GarageSoftware\\DomainModel\\DomainModel.csproj": {
+                "projectPath": "C:\\Users\\ascha\\source\\repos\\GarageSoftware\\DomainModel\\DomainModel.csproj"
               }
             }
           }
@@ -42,6 +38,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -67,7 +68,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -76,25 +78,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Bradbury\\Source\\Repos\\GarageSoftware\\DomainModel\\DomainModel.csproj": {
+    "C:\\Users\\ascha\\source\\repos\\GarageSoftware\\DomainModel\\DomainModel.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Bradbury\\Source\\Repos\\GarageSoftware\\DomainModel\\DomainModel.csproj",
+        "projectUniqueName": "C:\\Users\\ascha\\source\\repos\\GarageSoftware\\DomainModel\\DomainModel.csproj",
         "projectName": "DomainModel",
-        "projectPath": "C:\\Users\\Bradbury\\Source\\Repos\\GarageSoftware\\DomainModel\\DomainModel.csproj",
-        "packagesPath": "C:\\Users\\Bradbury\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Bradbury\\Source\\Repos\\GarageSoftware\\DomainModel\\obj\\",
+        "projectPath": "C:\\Users\\ascha\\source\\repos\\GarageSoftware\\DomainModel\\DomainModel.csproj",
+        "packagesPath": "C:\\Users\\ascha\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ascha\\source\\repos\\GarageSoftware\\DomainModel\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Bradbury\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\ascha\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -114,6 +112,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -125,7 +128,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -134,29 +138,25 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Bradbury\\Source\\Repos\\GarageSoftware\\GarageSoftware\\GarageSoftware.csproj": {
+    "C:\\Users\\ascha\\source\\repos\\GarageSoftware\\GarageSoftware\\GarageSoftware.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Bradbury\\Source\\Repos\\GarageSoftware\\GarageSoftware\\GarageSoftware.csproj",
+        "projectUniqueName": "C:\\Users\\ascha\\source\\repos\\GarageSoftware\\GarageSoftware\\GarageSoftware.csproj",
         "projectName": "GarageSoftware",
-        "projectPath": "C:\\Users\\Bradbury\\Source\\Repos\\GarageSoftware\\GarageSoftware\\GarageSoftware.csproj",
-        "packagesPath": "C:\\Users\\Bradbury\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Bradbury\\Source\\Repos\\GarageSoftware\\GarageSoftware\\obj\\",
+        "projectPath": "C:\\Users\\ascha\\source\\repos\\GarageSoftware\\GarageSoftware\\GarageSoftware.csproj",
+        "packagesPath": "C:\\Users\\ascha\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ascha\\source\\repos\\GarageSoftware\\GarageSoftware\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Bradbury\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\ascha\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net6.0-windows7.0"
+          "net6.0-windows"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
@@ -166,11 +166,11 @@
           "net6.0-windows7.0": {
             "targetAlias": "net6.0-windows",
             "projectReferences": {
-              "C:\\Users\\Bradbury\\Source\\Repos\\GarageSoftware\\DataAccessLayer\\DataAccessLayer.csproj": {
-                "projectPath": "C:\\Users\\Bradbury\\Source\\Repos\\GarageSoftware\\DataAccessLayer\\DataAccessLayer.csproj"
+              "C:\\Users\\ascha\\source\\repos\\GarageSoftware\\DataAccessLayer\\DataAccessLayer.csproj": {
+                "projectPath": "C:\\Users\\ascha\\source\\repos\\GarageSoftware\\DataAccessLayer\\DataAccessLayer.csproj"
               },
-              "C:\\Users\\Bradbury\\Source\\Repos\\GarageSoftware\\DomainModel\\DomainModel.csproj": {
-                "projectPath": "C:\\Users\\Bradbury\\Source\\Repos\\GarageSoftware\\DomainModel\\DomainModel.csproj"
+              "C:\\Users\\ascha\\source\\repos\\GarageSoftware\\DomainModel\\DomainModel.csproj": {
+                "projectPath": "C:\\Users\\ascha\\source\\repos\\GarageSoftware\\DomainModel\\DomainModel.csproj"
               }
             }
           }
@@ -179,6 +179,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -190,7 +195,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -202,7 +208,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303\\RuntimeIdentifierGraph.json"
         }
       }
     }

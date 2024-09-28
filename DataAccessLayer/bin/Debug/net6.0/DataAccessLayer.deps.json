@@ -121,10 +121,7 @@
       "System.Security.Principal.Windows/4.7.0": {},
       "DomainModel/1.0.0": {
         "runtime": {
-          "DomainModel.dll": {
-            "assemblyVersion": "1.0.0",
-            "fileVersion": "1.0.0.0"
-          }
+          "DomainModel.dll": {}
         }
       }
     }

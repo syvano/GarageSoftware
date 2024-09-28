@@ -16,6 +16,7 @@ namespace DomainModel.Models
         public int Rear_Brake_Remaining { get; set; }
         public int Anti_Freeze_Strength { get; set; }
         public int Odometer { get; set; }
+
     }
 
 }
