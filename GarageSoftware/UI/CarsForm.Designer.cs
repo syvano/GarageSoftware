@@ -56,16 +56,16 @@
             // 
             // RegistrationTxtBox
             // 
-            RegistrationTxtBox.Location = new Point(2035, 220);
+            RegistrationTxtBox.Location = new Point(1276, 102);
             RegistrationTxtBox.Margin = new Padding(5);
             RegistrationTxtBox.Name = "RegistrationTxtBox";
-            RegistrationTxtBox.Size = new Size(522, 50);
+            RegistrationTxtBox.Size = new Size(250, 50);
             RegistrationTxtBox.TabIndex = 0;
             // 
             // label1
             // 
             label1.AutoSize = true;
-            label1.Location = new Point(1693, 225);
+            label1.Location = new Point(934, 107);
             label1.Margin = new Padding(5, 0, 5, 0);
             label1.Name = "label1";
             label1.Size = new Size(190, 45);
@@ -74,24 +74,24 @@
             // 
             // MakeTxtBox
             // 
-            MakeTxtBox.Location = new Point(2035, 344);
+            MakeTxtBox.Location = new Point(1276, 171);
             MakeTxtBox.Margin = new Padding(5);
             MakeTxtBox.Name = "MakeTxtBox";
-            MakeTxtBox.Size = new Size(522, 50);
+            MakeTxtBox.Size = new Size(250, 50);
             MakeTxtBox.TabIndex = 2;
             // 
             // ModelTxtBox
             // 
-            ModelTxtBox.Location = new Point(2035, 469);
+            ModelTxtBox.Location = new Point(1276, 244);
             ModelTxtBox.Margin = new Padding(5);
             ModelTxtBox.Name = "ModelTxtBox";
-            ModelTxtBox.Size = new Size(522, 50);
+            ModelTxtBox.Size = new Size(250, 50);
             ModelTxtBox.TabIndex = 3;
             // 
             // label2
             // 
             label2.AutoSize = true;
-            label2.Location = new Point(1693, 349);
+            label2.Location = new Point(934, 176);
             label2.Margin = new Padding(5, 0, 5, 0);
             label2.Name = "label2";
             label2.Size = new Size(98, 45);
@@ -101,7 +101,7 @@
             // label3
             // 
             label3.AutoSize = true;
-            label3.Location = new Point(1693, 474);
+            label3.Location = new Point(934, 249);
             label3.Margin = new Padding(5, 0, 5, 0);
             label3.Name = "label3";
             label3.Size = new Size(112, 45);
@@ -110,9 +110,9 @@
             // 
             // AddVehicleBtn
             // 
-            AddVehicleBtn.Location = new Point(2035, 1000);
+            AddVehicleBtn.Location = new Point(1276, 595);
             AddVehicleBtn.Name = "AddVehicleBtn";
-            AddVehicleBtn.Size = new Size(522, 63);
+            AddVehicleBtn.Size = new Size(250, 63);
             AddVehicleBtn.TabIndex = 14;
             AddVehicleBtn.Text = "Add Vehicle";
             AddVehicleBtn.UseVisualStyleBackColor = true;
@@ -120,9 +120,9 @@
             // 
             // EditVehicleBtn
             // 
-            EditVehicleBtn.Location = new Point(2035, 1114);
+            EditVehicleBtn.Location = new Point(934, 595);
             EditVehicleBtn.Name = "EditVehicleBtn";
-            EditVehicleBtn.Size = new Size(522, 63);
+            EditVehicleBtn.Size = new Size(250, 63);
             EditVehicleBtn.TabIndex = 15;
             EditVehicleBtn.Text = "Edit Vehicle";
             EditVehicleBtn.UseVisualStyleBackColor = true;
@@ -132,57 +132,57 @@
             VehicleDataGrid.BackgroundColor = SystemColors.ButtonHighlight;
             VehicleDataGrid.ColumnHeadersHeightSizeMode = DataGridViewColumnHeadersHeightSizeMode.AutoSize;
             VehicleDataGrid.GridColor = SystemColors.ActiveBorder;
-            VehicleDataGrid.Location = new Point(105, 216);
+            VehicleDataGrid.Location = new Point(105, 107);
             VehicleDataGrid.Name = "VehicleDataGrid";
             VehicleDataGrid.RowHeadersWidth = 62;
             VehicleDataGrid.RowTemplate.Height = 33;
-            VehicleDataGrid.Size = new Size(1544, 961);
+            VehicleDataGrid.Size = new Size(750, 551);
             VehicleDataGrid.TabIndex = 16;
             // 
             // SearchTxt
             // 
-            SearchTxt.Location = new Point(105, 103);
+            SearchTxt.Location = new Point(105, 45);
             SearchTxt.Name = "SearchTxt";
             SearchTxt.PlaceholderText = "Start typing here...";
-            SearchTxt.Size = new Size(1190, 50);
+            SearchTxt.Size = new Size(500, 50);
             SearchTxt.TabIndex = 17;
             // 
             // SearchBtn
             // 
-            SearchBtn.Location = new Point(1366, 103);
+            SearchBtn.Location = new Point(705, 45);
             SearchBtn.Name = "SearchBtn";
-            SearchBtn.Size = new Size(283, 50);
+            SearchBtn.Size = new Size(150, 50);
             SearchBtn.TabIndex = 18;
             SearchBtn.Text = "Search";
             SearchBtn.UseVisualStyleBackColor = true;
             // 
             // FrontBrakeNum
             // 
-            FrontBrakeNum.Location = new Point(2035, 581);
+            FrontBrakeNum.Location = new Point(1276, 302);
             FrontBrakeNum.Name = "FrontBrakeNum";
-            FrontBrakeNum.Size = new Size(522, 50);
+            FrontBrakeNum.Size = new Size(250, 50);
             FrontBrakeNum.TabIndex = 19;
             // 
             // RearBrakeNum
             // 
-            RearBrakeNum.Location = new Point(2035, 680);
+            RearBrakeNum.Location = new Point(1276, 369);
             RearBrakeNum.Name = "RearBrakeNum";
-            RearBrakeNum.Size = new Size(522, 50);
+            RearBrakeNum.Size = new Size(250, 50);
             RearBrakeNum.TabIndex = 20;
             // 
             // AntiFreezeStengthNum
             // 
-            AntiFreezeStengthNum.Location = new Point(2035, 784);
+            AntiFreezeStengthNum.Location = new Point(1276, 438);
             AntiFreezeStengthNum.Maximum = new decimal(new int[] { 0, 0, 0, 0 });
             AntiFreezeStengthNum.Minimum = new decimal(new int[] { 50, 0, 0, int.MinValue });
             AntiFreezeStengthNum.Name = "AntiFreezeStengthNum";
-            AntiFreezeStengthNum.Size = new Size(522, 50);
+            AntiFreezeStengthNum.Size = new Size(250, 50);
             AntiFreezeStengthNum.TabIndex = 21;
             // 
             // label4
             // 
             label4.AutoSize = true;
-            label4.Location = new Point(1693, 586);
+            label4.Location = new Point(934, 307);
             label4.Name = "label4";
             label4.Size = new Size(272, 45);
             label4.TabIndex = 22;
@@ -191,7 +191,7 @@
             // label5
             // 
             label5.AutoSize = true;
-            label5.Location = new Point(1693, 685);
+            label5.Location = new Point(934, 374);
             label5.Name = "label5";
             label5.Size = new Size(259, 45);
             label5.TabIndex = 23;
@@ -200,7 +200,7 @@
             // label6
             // 
             label6.AutoSize = true;
-            label6.Location = new Point(1700, 789);
+            label6.Location = new Point(941, 443);
             label6.Name = "label6";
             label6.Size = new Size(305, 45);
             label6.TabIndex = 24;
@@ -208,16 +208,16 @@
             // 
             // OdometerNum
             // 
-            OdometerNum.Location = new Point(2035, 895);
+            OdometerNum.Location = new Point(1276, 504);
             OdometerNum.Maximum = new decimal(new int[] { 999999, 0, 0, 0 });
             OdometerNum.Name = "OdometerNum";
-            OdometerNum.Size = new Size(522, 50);
+            OdometerNum.Size = new Size(250, 50);
             OdometerNum.TabIndex = 25;
             // 
             // label7
             // 
             label7.AutoSize = true;
-            label7.Location = new Point(1693, 900);
+            label7.Location = new Point(934, 509);
             label7.Name = "label7";
             label7.Size = new Size(166, 45);
             label7.TabIndex = 26;
@@ -227,7 +227,7 @@
             // 
             AutoScaleDimensions = new SizeF(18F, 45F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(2740, 1368);
+            ClientSize = new Size(1603, 723);
             Controls.Add(label7);
             Controls.Add(OdometerNum);
             Controls.Add(label6);
